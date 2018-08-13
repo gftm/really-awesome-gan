@@ -91,6 +91,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 - Coupled Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1606.07536) [[Code]](https://github.com/wiseodd/generative-models)
 - Dualing GANs [[arXiv]](https://arxiv.org/abs/1706.06216)
 - Deep and Hierarchical Implicit Models [[arXiv]](https://arxiv.org/abs/1702.08896)
+- Dropout-GAN: Learning from a Dynamic Ensemble of Discriminators [[arXiv]](https://arxiv.org/abs/1807.11346)
 - Energy-based Generative Adversarial Network [[arXiv]](https://arxiv.org/abs/1609.03126) [[Code]](https://github.com/wiseodd/generative-models)
 - Explaining and Harnessing Adversarial Examples [[arXiv]](https://arxiv.org/abs/1412.6572)
 - Flow-GAN: Bridging implicit and prescribed learning in generative models [[arXiv]](https://arxiv.org/abs/1705.08868)
